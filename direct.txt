@@ -1,6 +1,8 @@
 payload:
   - PROCESS-NAME,zerotier-one_x64
   - PROCESS-NAME,zerotier-one_x64.exe
+  - PROCESS-NAME,syncthing
+  - PROCESS-NAME,syncthing.exe
   - DOMAIN-SUFFIX,cianogame.top
   - DOMAIN-SUFFIX,clss.cc
   - DOMAIN-SUFFIX,pstmrk.it
