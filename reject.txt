@@ -1,0 +1,8 @@
+payload:
+  - DOMAIN,www.wujieliulan.com
+  - DOMAIN,www.c-p-k.ru
+  - DOMAIN,5g.exzotron.ru
+  - DOMAIN,+.sovcombank.ru
+  - DOMAIN,+.mstelemetry.ru
+  - DOMAIN,check.ddos-guard.net
+  - DOMAIN,rosinkas.ru
