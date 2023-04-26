@@ -2,7 +2,7 @@ name: Purge jsdelivr CDN
 on:
   workflow_dispatch:
   schedule:
-    - cron: "* */4 * * *"
+    - cron: "0 0,12 * * *"
   push:
     branches:
       - main
