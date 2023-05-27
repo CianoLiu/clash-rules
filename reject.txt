@@ -6,3 +6,4 @@ payload:
   - DOMAIN,+.mstelemetry.ru
   - DOMAIN,check.ddos-guard.net
   - DOMAIN,rosinkas.ru
+  - DOMAIN-SUFFIX,sentry.io
