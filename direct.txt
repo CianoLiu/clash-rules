@@ -7,5 +7,7 @@ payload:
   - DOMAIN-SUFFIX,clss.cc
   - DOMAIN-SUFFIX,pstmrk.it
   - DOMAIN-SUFFIX,humblebundle.com
+  - DOMAIN-SUFFIX,sl916.com,DIRECT
   - DOMAIN,clash.razord.top
   - DOMAIN,yacd.haishan.me
+  
