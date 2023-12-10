@@ -8,3 +8,6 @@ payload:
   - DOMAIN,rosinkas.ru
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,stun.chat.bilibili.com
+  - DOMAIN-SUFFIX,stun-1.chat.bilibili.com
+  - DOMAIN-SUFFIX,stun6.chat.bilibili.com
+
