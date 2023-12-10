@@ -7,3 +7,4 @@ payload:
   - DOMAIN,check.ddos-guard.net
   - DOMAIN,rosinkas.ru
   - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,stun.chat.bilibili.com
