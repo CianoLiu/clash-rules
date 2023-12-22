@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,51zmt.top
   - DOMAIN,clash.razord.top
   - DOMAIN,yacd.haishan.me
+  - DOMAIN,zikeke6.com
