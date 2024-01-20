@@ -8,3 +8,4 @@ payload:
   - DOMAIN,clash.razord.top
   - DOMAIN,yacd.haishan.me
   - DOMAIN,zikeke6.com
+  - DOMAIN,time.windows.com
