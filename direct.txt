@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,humblebundle.com
   - DOMAIN-SUFFIX,sl916.com
   - DOMAIN-SUFFIX,51zmt.top
+  - DOMAIN-SUFFIX,wolfslg.com
   - DOMAIN,clash.razord.top
   - DOMAIN,yacd.haishan.me
   - DOMAIN,zikeke6.com
