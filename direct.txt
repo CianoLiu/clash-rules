@@ -10,3 +10,4 @@ payload:
   - DOMAIN,yacd.haishan.me
   - DOMAIN,zikeke6.com
   - DOMAIN,time.windows.com
+  - DOMAIN,lg-lax02.racknerd.com
