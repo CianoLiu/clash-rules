@@ -11,3 +11,11 @@ payload:
   - DOMAIN,zikeke6.com
   - DOMAIN,time.windows.com
   - DOMAIN,lg-lax02.racknerd.com
+  - DOMAIN,lg-sj.racknerd.com
+  - DOMAIN,lg-sea.racknerd.com
+  - DOMAIN,lg-dal.racknerd.com
+  - DOMAIN,lg-chi.racknerd.com
+  - DOMAIN,lg-ny.racknerd.com
+  - DOMAIN,lg-atl.racknerd.com
+  - DOMAIN,lg-fr.racknerd.com
+  - DOMAIN,lg-ams.racknerd.com
